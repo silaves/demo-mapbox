@@ -6,8 +6,8 @@
       {
         "code": "leon",
         "name": "León",
-        "dataUrl": "https://drive.google.com/uc?export=download&id=1nDqhZW2D1ucD4NNhxbn1mPfPdig2OkVU",
-        "coordenatesUrl": "https://drive.google.com/uc?export=download&id=18E9fOtFBrsBtPeI0_8vlcHnj6pbo37lt"
+        "dataUrl": "https://silaves.github.io/demo-mapbox/data/leon/leon.json",
+        "coordenatesUrl": "https://silaves.github.io/demo-mapbox/data/leon/leon-coordinates.json"
       }
     ]
   }
