@@ -95,3 +95,10 @@ html, body {
 .legend-text {
   font-size: 14px;
 }
+
+.mapboxgl-popup-content {
+  background-color: #333 !important;
+  color: #f1f1f1;
+  border-radius: 3px;
+  padding: 10px;
+}
