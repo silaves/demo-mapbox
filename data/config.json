@@ -8,6 +8,12 @@
         "name": "León",
         "dataUrl": "https://silaves.github.io/demo-mapbox/data/leon/leon.json",
         "coordenatesUrl": "https://silaves.github.io/demo-mapbox/data/leon/leon-coordinates.json"
+      },
+      {
+        "code": "salamanca",
+        "name": "Salamanca",
+        "dataUrl": "https://silaves.github.io/demo-mapbox/data/leon/salamanca.json",
+        "coordenatesUrl": "https://silaves.github.io/demo-mapbox/data/leon/salamanca-coordinates.json"
       }
     ]
   }
